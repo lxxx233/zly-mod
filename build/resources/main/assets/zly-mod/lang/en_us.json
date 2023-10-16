@@ -1,5 +1,7 @@
 {
   "item.zly-mod.watermaster": "Watermaster",
   "item.zly-mod.zlysword": "Zlysword",
-  "itemgroup.zly-mod.watermaster": "Watermaster"
+  "itemgroup.zly-mod.watermaster": "Watermaster",
+  "effect.zly-mod.watermaster": "Master's blessing",
+  "item.zly-mod.smurfscat": "Smurfscat"
 }

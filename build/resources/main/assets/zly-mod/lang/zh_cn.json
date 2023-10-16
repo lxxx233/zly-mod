@@ -1,5 +1,7 @@
 {
   "item.zly-mod.watermaster": "水怪",
   "item.zly-mod.zlysword": "凉意之剑",
-  "itemgroup.zly-mod.watermaster": "水怪"
+  "itemgroup.zly-mod.watermaster": "水怪",
+  "effect.zly-mod.watermaster": "水怪的祝福",
+  "item.zly-mod.smurfscat": "蓝精灵猫"
 }
