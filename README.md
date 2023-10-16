@@ -1,6 +1,6 @@
 # 自制模组 - 版本 1.20.1
 
-##git clone
+## git clone
 
 git clone --depth 1 -b zlymod-v1.1 https://github.com/lxxx233/zly-mod.git
 
