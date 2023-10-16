@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NEN",
+    "WRW",
+    "NCN"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:nether_star"
+    },
+    "R": {
+      "item": "minecraft:dragon_egg"
+    },
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "C": {
+      "item": "minecraft:command_block"
+    },
+    "E": {
+      "item": "minecraft:dragon_head"
+    }
+  },
+  "result": {
+    "item": "zly-mod:watermaster",
+    "count": 1
+  }
+}

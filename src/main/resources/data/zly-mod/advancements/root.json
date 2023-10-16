@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "zly-mod:watermaster"
+    },
+    "title": "卧槽？水怪！",
+    "description": "真牛逼，居然获得了传说中的水怪！",
+    "background":"zly-mod:textures/gui/advancements/backgrounds/ys.png",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zly-mod:watermaster"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["get"]
+  ],
+  "rewards": {
+    "experience": 100
+  }
+}
