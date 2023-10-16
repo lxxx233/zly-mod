@@ -1,5 +1,9 @@
 # 自制模组 - 版本 1.20.1
 
+##git clone
+
+git clone --depth 1 -b zlymod-v1.1 https://github.com/lxxx233/zly-mod.git
+
 ## 简介
 
 这是一个自制的 Minecraft 模组，版本号为1.20.1，为你带来了一些有趣的新增内容。在这个文档中，我们将介绍这个模组的新特性和如何使用它们。
@@ -27,7 +31,7 @@
 1. 下载项目。
 2. 在idea上导入项目。
 3. 在idea上Gradle构建。
-4. 构建后在Gradle按钮运行...runClinet。
+4. 构建后在Gradle按钮点开task->fabric->runClinet打开我的世界客户端。
 
 ## 如何使用
 
