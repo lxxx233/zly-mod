@@ -1,9 +1,6 @@
 package com.zly;
 
-import com.zly.registry.ModEffect;
-import com.zly.registry.ModEvent;
-import com.zly.registry.ModItemGroup;
-import com.zly.registry.ModItems;
+import com.zly.registry.*;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -27,5 +24,6 @@ public class ZlyMod implements ModInitializer {
 		ModItems.registerModItems();
 		ModEffect.registerModEffect();
 		ModEvent.registerModEvent();
+		ModBlocks.registerModBlocks();
 	}
 }

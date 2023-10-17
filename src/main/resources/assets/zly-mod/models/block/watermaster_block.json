@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "zly-mod:block/watermaster_block"
+  }
+}
