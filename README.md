@@ -28,7 +28,7 @@ git clone --depth 1 -b zlymod-v1.1 https://github.com/lxxx233/zly-mod.git
 
 ### 2023/10/17 更新 - 水怪方块
 
-- 新增水怪方块，抗火，只能被下界合金搞采集。
+- 新增水怪方块，稀有，抗火，只能被下界合金搞采集。
 
 ## 安装
 
