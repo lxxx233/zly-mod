@@ -26,7 +26,7 @@ public class ModBlocks {
             EPIC,true,                                                         //稀有级别，防火
             ModItemGroup.WATERMASTER);                                                  //所属物品组
 
-    //方块批量注册函数
+    //方块批量注册函数，传参：方块名，方块对象，方块稀有度，方块是否抗火，所属物品组对象
     public static Block registerBlocks(String name, Block block, Rarity rarity,boolean isfireproof, RegistryKey<ItemGroup>... itemGroups){
         if(isfireproof){//物品是否防火
             ModItems.registerItem(name,new BlockItem(block,new FabricItemSettings().rarity(rarity).fireproof()),itemGroups);

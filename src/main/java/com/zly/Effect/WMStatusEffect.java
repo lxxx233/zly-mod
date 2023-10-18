@@ -10,7 +10,7 @@ import net.minecraft.entity.player.PlayerEntity;
 import static net.minecraft.entity.effect.StatusEffects.RESISTANCE;
 
 
-public class WMStatusEffect extends StatusEffect {
+public class WMStatusEffect extends StatusEffect {//水怪的祝福效果属性的设置
     public WMStatusEffect() {
 
         super(
@@ -32,7 +32,7 @@ public class WMStatusEffect extends StatusEffect {
         if (entity instanceof PlayerEntity) {
 
             ((PlayerEntity) entity).addExperience(1 << amplifier); // 更高的 amplifier 会加快给予经验的速度
-            entity.addStatusEffect(new StatusEffectInstance(RESISTANCE,200,4));
+            entity.addStatusEffect(new StatusEffectInstance(RESISTANCE,200,4));//对玩家产生抗性提升5的效果，持续200tiks
         }
     }
 }

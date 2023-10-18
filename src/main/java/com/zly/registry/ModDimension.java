@@ -1,4 +1,6 @@
 package com.zly.registry;
+
+//自定义事件，目前还没开始做
 /*
 import com.zly.dimension.DimensionInit;
 

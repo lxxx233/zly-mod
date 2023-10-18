@@ -9,7 +9,7 @@ import net.minecraft.item.Items;
 import net.minecraft.util.ActionResult;
 
 
-public class ModEvent {
+public class ModEvent {//自定义事件接口的实现，已弃用
     public static void registerModEvent(){
 
 

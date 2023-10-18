@@ -20,10 +20,10 @@ public class ZlyMod implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
-		ModItemGroup.registerModItemGroup();
-		ModItems.registerModItems();
-		ModEffect.registerModEffect();
-		ModEvent.registerModEvent();
-		ModBlocks.registerModBlocks();
+		ModItemGroup.registerModItemGroup();//调用物品组注册
+		ModItems.registerModItems();//调用物注册
+		ModEffect.registerModEffect();//调用自定义效果注册
+		ModEvent.registerModEvent();//调用自定义事件注册，已弃用，该事件为修改剪羊毛掉落钻石事件
+		ModBlocks.registerModBlocks();//调用方块注册
 	}
 }
