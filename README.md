@@ -1,9 +1,9 @@
 # 自制模组 - 版本 我的世界1.20.2
 
 ## git clone
-
-git clone --depth 1 -b zlymod-v1.1 https://github.com/lxxx233/zly-mod.git
-
+```
+git clone --depth 1 -b zlymod-release-v1.1 https://github.com/lxxx233/zly-mod.git
+```
 ## 简介
 
 这是一个自制的 Minecraft 模组，版本号为1.20.2，为你带来了一些有趣的新增内容。在这个文档中，我们将介绍这个模组的新特性和如何使用它们。
@@ -29,6 +29,9 @@ git clone --depth 1 -b zlymod-v1.1 https://github.com/lxxx233/zly-mod.git
 ### 2023/10/17 更新 - 水怪方块
 
 - 新增水怪方块，稀有，抗火，只能被下界合金搞采集。
+
+### 2023/10/18 更新 - 代码维护
+
 
 ## 安装
 
