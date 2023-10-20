@@ -34,10 +34,6 @@ git clone --depth 1 -b zlymod-v1.1 https://github.com/lxxx233/zly-mod.git
 
 ### 2023/10/18 更新 - 代码维护
 
-### 2023/10/19 beta更新 - 新增实体：car
-
-- 新增实体car。
-
 ## 安装
 
 1. 下载项目。
