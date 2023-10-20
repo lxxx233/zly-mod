@@ -33,9 +33,6 @@ git clone --depth 1 -b zlymod-release-v1.1 https://github.com/lxxx233/zly-mod.gi
 ### 2023/10/18 更新 - 代码维护
 
 
-### 2023/10/18 更新 - 代码维护
-
-
 ## 安装
 
 1. 下载项目。
