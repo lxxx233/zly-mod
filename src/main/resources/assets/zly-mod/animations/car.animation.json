@@ -1,0 +1,92 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.car.drive": {
+			"loop": true,
+			"animation_length": 0.96,
+			"bones": {
+				"bone2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.24": {
+							"vector": [0, 0, 90]
+						},
+						"0.48": {
+							"vector": [0, 0, 180]
+						},
+						"0.72": {
+							"vector": [0, 0, 270]
+						},
+						"0.96": {
+							"vector": [0, 0, 360]
+						}
+					}
+				},
+				"bone3": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.24": {
+							"vector": [0, 0, 90]
+						},
+						"0.48": {
+							"vector": [0, 0, 180]
+						},
+						"0.72": {
+							"vector": [0, 0, 270]
+						},
+						"0.96": {
+							"vector": [0, 0, 360]
+						}
+					}
+				},
+				"bone4": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.24": {
+							"vector": [0, 0, 90]
+						},
+						"0.48": {
+							"vector": [0, 0, 180]
+						},
+						"0.72": {
+							"vector": [0, 0, 270]
+						},
+						"0.96": {
+							"vector": [0, 0, 360]
+						}
+					}
+				},
+				"bone5": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.24": {
+							"vector": [0, 0, 90]
+						},
+						"0.48": {
+							"vector": [0, 0, 180]
+						},
+						"0.72": {
+							"vector": [0, 0, 270]
+						},
+						"0.96": {
+							"vector": [0, 0, 360]
+						}
+					}
+				}
+			}
+		},
+		"animation.car.stop": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 0.04
+		}
+	},
+	"geckolib_format_version": 2
+}

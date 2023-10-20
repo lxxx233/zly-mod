@@ -3,5 +3,6 @@
   "item.zly-mod.zlysword": "Zlysword",
   "itemgroup.zly-mod.watermaster": "Watermaster",
   "effect.zly-mod.watermaster": "Master's blessing",
-  "item.zly-mod.smurfscat": "Smurfscat"
+  "item.zly-mod.smurfscat": "Smurfscat",
+  "block.zly-mod.watermaster_block": "watermasterblock"
 }

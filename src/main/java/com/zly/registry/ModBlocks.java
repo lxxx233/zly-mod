@@ -20,9 +20,10 @@ import static net.minecraft.util.Rarity.EPIC;
 public class ModBlocks {
     //水怪方块常量,硬度4.0f,抗性4.0f
     public static final Block WATERMASTER_BLOCK=registerBlocks("watermaster_block",//水怪方块常量
-            new Block(FabricBlockSettings.create()                                          //可掉落经验方块
+            new ExperienceDroppingBlock(FabricBlockSettings.create()                     //可掉落经验方块
                     .hardness(0.4f).strength(0.4f)                                      //硬度4.0f,抗性4.0f
-                    .requiresTool()),                                                   //可被工具采集
+                    .requiresTool(),                                                    //可被工具采集
+                    UniformIntProvider.create(50,100)),                                 // 采集后掉落50-100经验值
             EPIC,true,                                                         //稀有级别，防火
             ModItemGroup.WATERMASTER);                                                  //所属物品组
 
