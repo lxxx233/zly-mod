@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "zly-mod:watermaster_block"
+          "name": "minecraft:command_block"
         }
       ],
       "conditions": [
