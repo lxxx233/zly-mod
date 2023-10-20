@@ -1,8 +1,10 @@
 # 自制模组 - 版本 我的世界1.20.2
 
 ## git clone
-
+```
 git clone --depth 1 -b zlymod-v1.1 https://github.com/lxxx233/zly-mod.git
+```
+
 
 ## 简介
 
@@ -28,10 +30,13 @@ git clone --depth 1 -b zlymod-v1.1 https://github.com/lxxx233/zly-mod.git
 
 ### 2023/10/17 更新 - 水怪方块
 
-- 新增水怪方块，稀有，抗火，只能被下界合金搞采集。
+- 新增水怪方块，稀有，抗火，只能被下界合金镐采集。
 
 ### 2023/10/18 更新 - 代码维护
 
+### 2023/10/19 beta更新 - 新增实体：car
+
+- 新增实体car。
 
 ## 安装
 
