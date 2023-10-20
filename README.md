@@ -2,7 +2,7 @@
 
 ## git clone
 ```
-git clone --depth 1 -b zlymod-v1.1 https://github.com/lxxx233/zly-mod.git
+git clone --depth 1 -b zlymod-beta-v1.1 https://github.com/lxxx233/zly-mod.git
 ```
 
 
@@ -33,6 +33,10 @@ git clone --depth 1 -b zlymod-v1.1 https://github.com/lxxx233/zly-mod.git
 - 新增水怪方块，稀有，抗火，只能被下界合金镐采集。
 
 ### 2023/10/18 更新 - 代码维护
+
+### 2023/10/19 beta更新 - 新增实体：car
+
+- 新增实体car。
 
 ## 安装
 
